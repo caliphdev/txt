@@ -26,7 +26,7 @@
       "angkat beban berat",
       "olahraga",
       "jatuh",
-      "salah duduk "
+      "salah duduk"
     ]
   },
   {
@@ -46,7 +46,7 @@
       "minum",
       "istirahat",
       "spa",
-      "mandi "
+      "mandi"
     ]
   },
   {
@@ -91,13 +91,12 @@
       "orange",
       "maroon",
       "merah muda",
-      "ungu "
+      "ungu"
     ]
   },
   {
     "soal": "Perasaan apa yang ada bila mau kencan pertama?",
     "jawaban": [
-      "",
       "Senang",
       "Grogi",
       "Gembira",
@@ -120,13 +119,12 @@
       "sisir",
       "sampo / shampo",
       "gel / minyak rambut",
-      "pengering rambut "
+      "pengering rambut"
     ]
   },
   {
     "soal": "Perasaan apa yang ada bila mau kencan pertama?",
     "jawaban": [
-      "",
       "Senang",
       "Grogi",
       "Gembira",
@@ -256,7 +254,7 @@
       "angkat beban berat",
       "olahraga",
       "jatuh",
-      "salah duduk "
+      "salah duduk"
     ]
   },
   {
@@ -274,7 +272,7 @@
       "makanan",
       "mainan",
       "minuman",
-      "alat tulis "
+      "alat tulis"
     ]
   },
   {
@@ -345,7 +343,7 @@
       "kacang hitam",
       "coklat / cokelat",
       "daging",
-      "kentang "
+      "kentang"
     ]
   },
   {
@@ -406,7 +404,7 @@
       "dada",
       "kupu-kupu",
       "katak",
-      "bebas "
+      "bebas"
     ]
   },
   {
@@ -438,7 +436,7 @@
       "kue",
       "baju",
       "celana",
-      "mainan "
+      "mainan"
     ]
   },
   {
@@ -449,7 +447,7 @@
       "kue",
       "baju",
       "celana",
-      "mainan "
+      "mainan"
     ]
   },
   {
@@ -495,7 +493,7 @@
       "orange",
       "maroon",
       "merah muda",
-      "ungu "
+      "ungu"
     ]
   },
   {
@@ -512,7 +510,6 @@
   {
     "soal": "Perasaan apa yang ada bila mau kencan pertama?",
     "jawaban": [
-      "",
       "Senang",
       "Grogi",
       "Gembira",
