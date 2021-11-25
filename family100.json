@@ -518,5 +518,209 @@
       "Gembira",
       "Dag dig dug"
     ]
+  },
+  {
+    "soal": "sebutkan sesuatu yang kamu beli dari uang jajan sendiri?",
+    "jawaban": [
+      "makanan",
+      "mainan",
+      "minuman",
+      "alat tulis"
+    ]
+  },
+  {
+    "soal": "sebutkan warna-warna bunga mawar?",
+    "jawaban": [
+      "merah",
+      "putih",
+      "kuning",
+      "jingga",
+      "orange",
+      "maroon",
+      "merah muda",
+      "ungu"
+    ]
+  },
+  {
+    "soal": "suara yang ditakuti anak2?",
+    "jawaban": [
+      "anjing",
+      "hantu",
+      "petir",
+      "harimau"
+    ]
+  },
+  {
+    "soal": "sebutkan sesuatu yang memiliki tali?",
+    "jawaban": [
+      "sepatu",
+      "pakaian dalam",
+      "tas",
+      "celana",
+      "pulpen"
+    ]
+  },
+  {
+    "soal": "apa reaksi kamu jika mainan kamu tiba-tiba hidup?",
+    "jawaban": [
+      "main bersama",
+      "takut",
+      "senang",
+      "kaget",
+      "buang",
+      "kasih tahu teman"
+    ]
+  },
+  {
+    "soal": "apa yg biasanya sering lupa dibawa ?",
+    "jawaban": [
+      "uang",
+      "dompet",
+      "handphone",
+      "kunci",
+      "kacamata",
+      "rokok",
+      "stnk",
+      "korek"
+    ]
+  },
+  {
+    "soal": "apa reaksi kamu jika mainan kamu tiba-tiba hidup?",
+    "jawaban": [
+      "main bersama",
+      "takut",
+      "senang",
+      "kaget",
+      "buang",
+      "kasih tahu teman"
+    ]
+  },
+  {
+    "soal": "Bekal makan anak sekolah?",
+    "jawaban": [
+      "Mie",
+      "Nasi goreng",
+      "Roti",
+      "Nasi uduk"
+    ]
+  },
+  {
+    "soal": "Sifat yang dimiliki anak-anak",
+    "jawaban": [
+      "Manja",
+      "Cengeng",
+      "Nakal",
+      "Pemalu"
+    ]
+  },
+  {
+    "soal": "hewan tak berkaki?",
+    "jawaban": [
+      "ular",
+      "cacing",
+      "belut",
+      "lintah",
+      "siput"
+    ]
+  },
+  {
+    "soal": "bagian/part dari komputer umum?",
+    "jawaban": [
+      "ram",
+      "cpu",
+      "mouse",
+      "keyboard",
+      "monitor",
+      "printer",
+      "scanner"
+    ]
+  },
+  {
+    "soal": "apa yang dilakukan orang kalau kecapean?",
+    "jawaban": [
+      "tidur",
+      "makan",
+      "minum",
+      "istirahat",
+      "spa",
+      "mandi"
+    ]
+  },
+  {
+    "soal": "alasan apa yang orang katakan untuk menyudahi pembicaran di telepon?",
+    "jawaban": [
+      "baterai habis",
+      "mau ke toilet",
+      "pulsa habis",
+      "sibuk",
+      "telepon masuk",
+      "mau istirahat",
+      "ada tamu"
+    ]
+  },
+  {
+    "soal": "apa penyebab pinggang menjadi terkilir?",
+    "jawaban": [
+      "angkat beban berat",
+      "olahraga",
+      "jatuh",
+      "salah duduk"
+    ]
+  },
+  {
+    "soal": "Perasaan apa yang ada bila mau kencan pertama?",
+    "jawaban": [
+      "Senang",
+      "Grogi",
+      "Gembira",
+      "Dag dig dug"
+    ]
+  },
+  {
+    "soal": "selain kacang hijau, sebutkan ragam isi bakpau ?",
+    "jawaban": [
+      "kacang hitam",
+      "coklat / cokelat",
+      "daging",
+      "kentang"
+    ]
+  },
+  {
+    "soal": "apa penyebab pinggang menjadi terkilir?",
+    "jawaban": [
+      "angkat beban berat",
+      "olahraga",
+      "jatuh",
+      "salah duduk"
+    ]
+  },
+  {
+    "soal": "selain kacang hijau, sebutkan ragam isi bakpau ?",
+    "jawaban": [
+      "kacang hitam",
+      "coklat / cokelat",
+      "daging",
+      "kentang"
+    ]
+  },
+  {
+    "soal": "sebutkan sesuatu yang sekali pakai langsung buang?",
+    "jawaban": [
+      "pembalut",
+      "tisu",
+      "popok bayi / popok",
+      "korek api / korek",
+      "teh celup",
+      "kondom"
+    ]
+  },
+  {
+    "soal": "Apa yang dilakukan jika tersesat dihutan",
+    "jawaban": [
+      "Menangis",
+      "Teriak",
+      "Berdoa",
+      "Dileme"
+    ]
   }
 ]
